@@ -1,2 +1,25 @@
 # credit-card-fraud-ML
-The attached .ipynb file has the complete workflow description of our project on Credit Card Fraud Detection using Machine Learning
+
+Feature Selection:
+  Pearson Correlation
+  Scatter Plot Visualization
+  Density Plot
+  
+ Scaling Techniques:
+  Standard Scaler
+  Under sampling
+  
+ Classification Models used:
+  K Nearest Neighbors
+  Logistic Regression
+  Support Vector Machines
+  Decision Trees
+  Random Forests
+  XGboost
+  LightGBM
+   
+ Metrics for accuracy of model:
+  ROC-AUC curve
+  Recall Score
+  Classification Report
+  Test Train Split
