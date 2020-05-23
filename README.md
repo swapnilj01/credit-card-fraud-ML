@@ -23,3 +23,10 @@ Feature Selection:
   Recall Score
   Classification Report
   Test Train Split
+
+Contributors:
+  Sumit Kumar Sah
+  Swapnil Jena
+  Rohit Kumar Nayak
+  Shubrato Khumar Shau
+  Siddharth Nanda
